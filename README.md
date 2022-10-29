@@ -19,16 +19,18 @@ You may also see any lint errors in the console.
 Launches the json server with auth for testing.\
 See the section about [json-server-auth](https://www.npmjs.com/package/json-server-auth) for more information.
 
-![1](/Users/yinanli/Desktop/ReactProjects/tesy/tesy-frontend/README.assets/1.png)
+## Page Views
 
-![2](/Users/yinanli/Desktop/ReactProjects/tesy/tesy-frontend/README.assets/2.png)
+![1](README.assets/1.png)
 
-![3](/Users/yinanli/Desktop/ReactProjects/tesy/tesy-frontend/README.assets/3.png)
+![2](README.assets/2.png)
 
-![4](/Users/yinanli/Desktop/ReactProjects/tesy/tesy-frontend/README.assets/4.png)
+![3](README.assets/3.png)
 
-![5](/Users/yinanli/Desktop/ReactProjects/tesy/tesy-frontend/README.assets/5.png)
+![4](README.assets/4.png)
 
-![6](/Users/yinanli/Desktop/ReactProjects/tesy/tesy-frontend/README.assets/6.png)
+![5](README.assets/5.png)
 
-![7](/Users/yinanli/Desktop/ReactProjects/tesy/tesy-frontend/README.assets/7.png)
+![6](README.assets/6.png)
+
+![7](README.assets/7.png)
